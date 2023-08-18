@@ -12,4 +12,4 @@ This web-app is only possible due to this dataset, as all of the information tha
 
 ## Final Words
 
-I hope you have a great experience with NBA Stats Tracker. Right now, there are multiple features that I am continuing to work on, including adding interactive visual elements. If you would like any guidance on the code, or want to provide any modification, please reach out to me through my [LinkedIn] (https://www.linkedin.com/in/adityakmehrotra/), or email me at adi1.mehrotra@gmail.com. If you have any changes you would like to propose, or if there is any bug, please feel free to file an issue and a pull request. Thanks!
+I hope you have a great experience with NBA Stats Tracker. Right now, there are multiple features that I am continuing to work on, including adding interactive visual elements. If you would like any guidance on the code, or want to provide any modification, please reach out to me through my [LinkedIn](https://www.linkedin.com/in/adityakmehrotra/), or email me at adi1.mehrotra@gmail.com. If you have any changes you would like to propose, or if there is any bug, please feel free to file an issue and a pull request. Thanks!
